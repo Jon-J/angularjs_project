@@ -21,3 +21,14 @@
 * Check Angularjs version:
 
         $ ng -v
+
+* Create angular project:
+
+        $ ng new angular6demo
+
+* Starting angularjs service:
+
+        $ ng serve --host 0.0.0.0 --port 5000
+
+* If want to configure in config file hostname and port, follow the link:
+#http://www.codeman.in/question/set-default-host-and-port-for-ng-serve-in-config-file-117
